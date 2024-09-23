@@ -1,0 +1,7 @@
+id=mi_hide_adaptive_icon_stroke
+name=Mi Hide Adaptive Icon Stroke
+version=%%VERSION%%
+versionCode=%%VERSIONCODE%%
+author=YifePlayte
+description=Hide adaptive icon stroke in MIUI / HyperOS
+updateJson=https://github.com/YifePlayte/Mi-Hide-Adaptive-Icon-Stroke/releases/latest/download/update.json
